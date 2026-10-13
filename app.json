@@ -8,6 +8,7 @@
     "scheme": "teamup",
     "userInterfaceStyle": "automatic",
     "ios": {
+      "bundleIdentifier": "com.keliura.teamup",
       "icon": "./assets/expo.icon"
     },
 "android": {
