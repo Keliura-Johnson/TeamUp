@@ -10,7 +10,8 @@
     "ios": {
       "icon": "./assets/expo.icon"
     },
-    "android": {
+"android": {
+      "package": "com.keliura.teamup",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
