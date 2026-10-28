@@ -4,20 +4,18 @@
     "slug": "TeamUp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/symbol.png",
     "scheme": "teamup",
     "userInterfaceStyle": "automatic",
     "ios": {
       "bundleIdentifier": "com.keliura.teamup",
       "icon": "./assets/expo.icon"
     },
-"android": {
+    "android": {
       "package": "com.keliura.teamup",
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/images/android-icon-foreground.png",
-        "backgroundImage": "./assets/images/android-icon-background.png",
-        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+        "backgroundColor": "#FFFFFF",
+        "foregroundImage": "./assets/images/symbol.png"
       },
       "predictiveBackGestureEnabled": false
     },
@@ -43,9 +41,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "6c9be7f4-7ff1-4ee6-8985-229b0bd11335"
+        "projectId": "c5b25fbd-65c5-43a1-a7a5-9f2bad2d2e28"
       }
     },
-    "owner": "keliura"
+    "owner": "gongsa1"
   }
 }
